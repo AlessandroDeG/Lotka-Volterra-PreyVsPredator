@@ -8,3 +8,21 @@ The dynamics of the system are quite interesting to observe, it looks like the w
 Thanks to Prof. Igor V. Pivkin for the great course.
 
 ![WolfRabbit0](/WolfRabbit0.png)
+
+...
+
+![WolfRabbit1](/WolfRabbit1.png)
+
+...
+
+![WolfRabbit2](/WolfRabbit2.png)
+
+...
+
+![WolfRabbit3](/WolfRabbit3.png)
+
+...
+
+![WolfRabbit4](/WolfRabbit4.png)
+
+
